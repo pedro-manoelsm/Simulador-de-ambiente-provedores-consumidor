@@ -1,0 +1,49 @@
+{
+  "version": 2,
+  "dgSpecHash": "mRuMjoR2vFA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pedro\\OneDrive\\Documentos\\QoSOptimizer\\QoSOptimizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\aforge\\2.2.5\\aforge.2.2.5.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\aforge.genetic\\2.2.5\\aforge.genetic.2.2.5.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\aforge.math\\2.2.5\\aforge.math.2.2.5.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "O pacote 'AForge 2.2.5' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' em vez da estrutura de destino do projeto 'net9.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "projectPath": "C:\\Users\\pedro\\OneDrive\\Documentos\\QoSOptimizer\\QoSOptimizer.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\pedro\\OneDrive\\Documentos\\QoSOptimizer\\QoSOptimizer.csproj",
+      "libraryId": "AForge",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "O pacote 'AForge.Genetic 2.2.5' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' em vez da estrutura de destino do projeto 'net9.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "projectPath": "C:\\Users\\pedro\\OneDrive\\Documentos\\QoSOptimizer\\QoSOptimizer.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\pedro\\OneDrive\\Documentos\\QoSOptimizer\\QoSOptimizer.csproj",
+      "libraryId": "AForge.Genetic",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "O pacote 'AForge.Math 2.2.5' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' em vez da estrutura de destino do projeto 'net9.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "projectPath": "C:\\Users\\pedro\\OneDrive\\Documentos\\QoSOptimizer\\QoSOptimizer.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\pedro\\OneDrive\\Documentos\\QoSOptimizer\\QoSOptimizer.csproj",
+      "libraryId": "AForge.Math",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}
